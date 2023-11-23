@@ -75,7 +75,7 @@ To launch the application, follow these steps:
 streamlit run yourpath/TalkDocument/src/home.py
 ```
 # Credits
-This project was developed by Damián Gil González.
+This project was developed by Deepak Lodhi.
 
 
 
